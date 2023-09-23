@@ -1,0 +1,26 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.login-container{
+    border: 1px solid black;
+    width: 60%;
+    margin: auto;
+}
+h2{
+    margin: 0;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 10px;
+}
+#sub-btn{
+    margin: 10px;
+    background:linear-gradient(#625BF7,#463EEA);
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    color: aliceblue;
+}
